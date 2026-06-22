@@ -47,7 +47,7 @@
     </td>
     <td>
       <a href="https://en.wikipedia.org/wiki/Next.js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="44" valign="middle" style="padding: 1px 1px 1px 1px; background-color: white;" valign="middle" />
+        <img src="https://cdn.simpleicons.org/nextdotjs/white" width="20" valign="middle" />
       </a>
     </td>
   </tr>
@@ -73,8 +73,8 @@
       </a>
     </td>
     <td>
-      <a href="">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20" valign="middle" style="padding: 1px 1px 1px 1px; background-color: white;" valign="middle" />
+      <a href="https://en.wikipedia.org/wiki/GitHub">
+        <img src="https://cdn.simpleicons.org/github/white" width="20" valign="middle" />
       </a>
     </td>
   </tr>
@@ -103,7 +103,7 @@ The project features a website with an account system, as well as user managemen
 **Result:** A minimal implementation of [Nginx](https://en.wikipedia.org/wiki/Nginx) that takes a configuration and sets up a server on localhost, that can serve configured endpoints.
 
 ### [Inception](https://github.com/Lilly81324/42_inception)
-** Amount of Lines in Project:** `6107`
+**Amount of Lines in Project:** `6107`
 <br>
 **Scope:** `30 days - 1 person`
 <br>
@@ -112,7 +112,7 @@ The project features a website with an account system, as well as user managemen
 **Result:** A website set up with wordpress and accessible on localhost
 
 
-# Employment
+# Education & Experience
 
 ?[WIP]-2009 -> 05[WIP check exact date]-2022 Highschool at the [Theodor-Heuss-Gymnasium, Wolfsburg](https://thgwob.de/)
 <br>
