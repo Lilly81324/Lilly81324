@@ -1,11 +1,43 @@
 <h1 align="center">An aspiring new developer</h1>
 
 # Techstack
+
+<table style="width:100%; vertical-align: middle">
+  <tr>
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="20" valign="middle" href="https://www.google.com"/>
+    </td>
+    <td href="https://www.google.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="20" valign="middle" style="margin-right: 4px"/>
+    </td>
+    <td>
+      <a href="https://www.google.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="20" valign="middle" style="margin-right: 4px"/>
+      </a>
+    </td>
+    <td href="https://google.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" valign="middle" style="margin-right: 4px"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Frameworks</td>
+  </tr>
+  <tr>
+    <td>Architecture</td>
+  </tr>
+  <tr>
+    <td>Platforms</td>
+  </tr>
+</table>
+
 <p align="left">
   <!-- Languages I write in -->
   <a style="margin-right: 13px">Languages:</a>
-  <a href="https://google.com">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="20" valign="middle" style="margin-right: 4px"/>
+  <a href="https://google.com" style="margin-right: 4px">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="20" valign="middle" />
  <a/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="20" valign="middle" style="margin-right: 4px" href="https://www.google.com"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20" valign="middle" style="margin-right: 4px"/>
