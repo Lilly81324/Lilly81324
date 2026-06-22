@@ -84,7 +84,7 @@
 Ranked in order of amount of work:
 <br>
 ### [Transcendence](https://github.com/Lilly81324/42_Worms2D)
-**Amount of Lines in Project:** `139164`
+**Lines** `139.164`
 <br>
 **Scope:** `120 days - 5 people`
 <br>
@@ -94,7 +94,7 @@ Ranked in order of amount of work:
 The project features a website with an account system, as well as user management and OAuth 2.0 to set up a local pvp multiplayer game inspired by the game "[Worms](https://en.wikipedia.org/wiki/Worms_W.M.D)"
 
 ### [Webserv](https://github.com/Lilly81324/42_webserv)
-**Amount of Lines in Project:** `51473`
+**Lines:** `51.473`
 <br>
 **Scope:** `90 days - 3 people`
 <br>
@@ -103,7 +103,7 @@ The project features a website with an account system, as well as user managemen
 **Result:** A minimal implementation of [Nginx](https://en.wikipedia.org/wiki/Nginx) that takes a configuration and sets up a server on localhost, that can serve configured endpoints.
 
 ### [Inception](https://github.com/Lilly81324/42_inception)
-**Amount of Lines in Project:** `6107`
+**Lines** `6.107`
 <br>
 **Scope:** `30 days - 1 person`
 <br>
@@ -125,3 +125,7 @@ The project features a website with an account system, as well as user managemen
 \> Finished Core Curriculum with Pace 18
 
 \<Your company name here\>
+
+# About me
+
+# Links / Contact Info
