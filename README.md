@@ -12,8 +12,8 @@ My greatest asset as a developer is my ability to independently teach myself and
 I am also fluent in English and German and comfortable with working in team enviroments.
 <br>
 <center>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lilly81324&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true" style="margin-right: 5"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilly81324&layout=compact&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats-alpha-eight-19.vercel.app/api?username=Lilly81324&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true" style="margin-right: 5"/>
+  <img height=200 align="center" src="https://github-readme-stats-alpha-eight-19.vercel.app/api/top-langs/?username=Lilly81324&layout=compact&theme=dark" />
 </center>
 
 
@@ -116,7 +116,7 @@ E-mail: `likunne@proton.me`<br>
 # Projects
 ### [Transcendence / Worms2D](https://github.com/Lilly81324/42_Worms2D)
 <a href="https://github.com/Lilly81324/42_Worms2D">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Lilly81324&repo=42_Worms2D&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats-alpha-eight-19.vercel.app/api/pin?username=Lilly81324&repo=42_Worms2D&layout=compact&theme=dark" />
 </a>
 
 **Scope:** `120 days - 5 people`
@@ -130,7 +130,7 @@ The project features a website with an account system, as well as user managemen
 
 ### [Webserv](https://github.com/Lilly81324/42_webserv)
 <a href="https://github.com/Lilly81324/42_webserv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Lilly81324&repo=42_webserv&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats-alpha-eight-19.vercel.app/api/pin?username=Lilly81324&repo=42_webserv&layout=compact&theme=dark" />
 </a>
 
 **Scope:** `90 days - 3 people`
