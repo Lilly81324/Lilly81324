@@ -11,17 +11,10 @@ There, I learnt the fundamentals of all programming, with `C`, `C++` and later o
 My greatest asset as a developer is my ability to independently teach myself and learn new skills quickly, to accomplish an assigned task.
 I am also fluent in English and German and comfortable with working in team enviroments.
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lilly81324&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true" style="margin-right: 5;"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+<center>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lilly81324&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true" style="margin-right: 5"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilly81324&layout=compact&theme=dark" />
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api/pin?username=Lilly81324&repo=42_Worms2D" />
-<img src="https://github-readme-stats.vercel.app/api/pin?username=Lilly81324&repo=42_webserv" />
-<img src="https://github-readme-stats.vercel.app/api/pin?username=Lilly81324&repo=42_inception" />
-<br>
+</center>
 
 
 
@@ -121,7 +114,11 @@ E-mail: `likunne@proton.me`<br>
 
 
 # Projects
-### [Transcendence](https://github.com/Lilly81324/42_Worms2D)
+### [Transcendence / Worms2D](https://github.com/Lilly81324/42_Worms2D)
+<a href="https://github.com/Lilly81324/42_Worms2D">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Lilly81324&repo=42_Worms2D&layout=compact&theme=dark" />
+</a>
+
 **Scope:** `120 days - 5 people`
 <br>
 **Context:** The final graduation project for my studies at 42 Wolfsburg
@@ -132,6 +129,10 @@ The project features a website with an account system, as well as user managemen
 **Role:** Full stack working on the server and frontend for the game, while modifying the docker architecture to allow for streamlined use of websockets
 
 ### [Webserv](https://github.com/Lilly81324/42_webserv)
+<a href="https://github.com/Lilly81324/42_webserv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Lilly81324&repo=42_webserv&layout=compact&theme=dark" />
+</a>
+
 **Scope:** `90 days - 3 people`
 <br>
 **Context:** One of the projects of the core curriculum from 42 Wolfsburg
@@ -141,6 +142,10 @@ The project features a website with an account system, as well as user managemen
 **Role:** Implementing graceful shutdown, handling PUT and PATCH methods, setting up Header and Cookie systems
 
 ### [Inception](https://github.com/Lilly81324/42_inception)
+<a href="https://github.com/Lilly81324/42_inception">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Lilly81324&repo=42_inception&layout=compact&theme=dark" />
+</a>
+
 **Scope:** `30 days - 1 person`
 <br>
 **Context:** One of the projects of the core curriculum from 42 Wolfsburg
