@@ -1,4 +1,42 @@
-<h1 align="center">An aspiring new developer</h1>
+<h1 align="center">🌺 Lilly81324s Profile Page 🖥️</h1>
+
+# About me
+### Hello, I am Lilly, a backend developer with a focus on C/C++ and web development
+I am a software and web developer, with a particular interest in C based code and creating webservers.<br>
+I learnt coding in school, when I found out that I can program my Ti-Nspire Calculator to do my homework for me, by using `Lua`.<br>
+After that I applied to our school's IT work group, where I was introduced to the basic programming language principles by using `Scratch 2`.<br>
+I then moved on to writing my own Discord bot and some smaller projects, as I started teaching myself `Python`.<br>
+After learning about a coding school called [42 Wolfsburg](https://42wolfsburg.de/), I quit my physics studies to focus fully on studying IT.
+There, I learnt the fundamentals of all programming, with `C`, `C++` and later on more complex scripting languages like `Typescript`<br><br>
+My greatest asset as a developer is my ability to independently teach myself and learn new skills quickly, to accomplish an assigned task.
+I am also fluent in English and German and comfortable with working in team enviroments.
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lilly81324&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true" style="margin-right: 5;"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilly81324&layout=compact&theme=dark" />
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api/pin?username=Lilly81324&repo=42_Worms2D" />
+<img src="https://github-readme-stats.vercel.app/api/pin?username=Lilly81324&repo=42_webserv" />
+<img src="https://github-readme-stats.vercel.app/api/pin?username=Lilly81324&repo=42_inception" />
+<br>
+
+
+
+# Current
+As of now, I am still studying at 42 Wolfsburg, and am about to finish the common core on 12. July 2026.
+<br>
+I am actively looking for a junior backend position in tech, where I can make use of my C/C++ and web development experience and keep expanding my tech stack.
+<br>
+
+
+
+# Links / Contact Info
+E-mail: `likunne@proton.me`<br>
+[WIP add pronouns page]<br>
+
 
 # Techstack
 
@@ -42,7 +80,7 @@
     </td>
     <td>
       <a href="https://en.wikipedia.org/wiki/Babylon.js">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSijA57-kg5gRxd1mFz6P87ktLeN23ZWkFaEQ&s" width="20" valign="middle" />
+        <img src="https://cdn.simpleicons.org/babylondotjs/white" width="20" valign="middle" />
       </a>
     </td>
     <td>
@@ -80,52 +118,51 @@
   </tr>
 </table>
 
+
+
 # Projects
-Ranked in order of amount of work:
-<br>
 ### [Transcendence](https://github.com/Lilly81324/42_Worms2D)
-**Lines** `139.164`
-<br>
 **Scope:** `120 days - 5 people`
 <br>
 **Context:** The final graduation project for my studies at 42 Wolfsburg
 <br>
 **Result:**
 The project features a website with an account system, as well as user management and OAuth 2.0 to set up a local pvp multiplayer game inspired by the game "[Worms](https://en.wikipedia.org/wiki/Worms_W.M.D)"
+<br>
+**Role:** Full stack working on the server and frontend for the game, while modifying the docker architecture to allow for streamlined use of websockets
 
 ### [Webserv](https://github.com/Lilly81324/42_webserv)
-**Lines:** `51.473`
-<br>
 **Scope:** `90 days - 3 people`
 <br>
 **Context:** One of the projects of the core curriculum from 42 Wolfsburg
 <br>
 **Result:** A minimal implementation of [Nginx](https://en.wikipedia.org/wiki/Nginx) that takes a configuration and sets up a server on localhost, that can serve configured endpoints.
+<br>
+**Role:** Implementing graceful shutdown, handling PUT and PATCH methods, setting up Header and Cookie systems
 
 ### [Inception](https://github.com/Lilly81324/42_inception)
-**Lines** `6.107`
-<br>
 **Scope:** `30 days - 1 person`
 <br>
 **Context:** One of the projects of the core curriculum from 42 Wolfsburg
 <br>
 **Result:** A website set up with wordpress and accessible on localhost
+<br>
+**Role:** Solo project, set up entire docker network and endpoints independently
 
 
 # Education & Experience
 
-?[WIP]-2009 -> 05[WIP check exact date]-2022 Highschool at the [Theodor-Heuss-Gymnasium, Wolfsburg](https://thgwob.de/)
+[WIP Verify]`2009 - 2022`<br>
+High school at the [Theodor-Heuss-Gymnasium, Wolfsburg](https://thgwob.de/)
 <br>
-\> Acheived a high school diploma (Abitur/Fachhochschulreife) [WIP insert grade]
+-> Achieved a high school diploma (Abitur/Fachhochschulreife) [WIP insert grade]
 
-[WIP insert uni at TU-BS]
-
-11-2024 -> 07-2026 Studies at [42 Wolfsburg](https://42wolfsburg.de/)
+`2022 - 2023`<br>
+Studied physics at [Brunswick university](https://www.tu-braunschweig.de/)
 <br>
-\> Finished Core Curriculum with Pace 18
 
-\<Your company name here\>
+`2024 - 2026`<br>
+Studied at [42 Wolfsburg](https://42wolfsburg.de/)
+<br>
+<!-- -> Finished Core Curriculum in 18 months -->
 
-# About me
-
-# Links / Contact Info
