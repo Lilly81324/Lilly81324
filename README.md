@@ -28,7 +28,6 @@ I am actively looking for a junior backend position in tech, where I can make us
 
 # Links / Contact Info
 E-mail: `likunne@proton.me`<br>
-[WIP add pronouns page]<br>
 
 
 # Techstack
@@ -157,10 +156,10 @@ The project features a website with an account system, as well as user managemen
 
 # Education & Experience
 
-[WIP Verify]`2009 - 2022`<br>
+`2013 - 2022`<br>
 High school at the [Theodor-Heuss-Gymnasium, Wolfsburg](https://thgwob.de/)
 <br>
--> Achieved a high school diploma (Abitur/Fachhochschulreife) [WIP insert grade]
+-> Achieved a high school diploma (Abitur/Fachhochschulreife) with a grade of 2,3 [german grading system](https://en.wikipedia.org/wiki/Academic_grading_in_Germany)
 
 `2022 - 2023`<br>
 Studied physics at [Brunswick university](https://www.tu-braunschweig.de/)
