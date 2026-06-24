@@ -2,7 +2,7 @@
 
 # About me
 ### Hello, I am Lilly, a backend developer with a focus on C/C++ and web development
-I am a software and web developer, with a particular interest in C based code and creating webservers.<br>
+I am a 23 year old software and web developer, with a particular interest in C based code and creating webservers.<br>
 I learnt coding in school, when I found out that I can program my Ti-Nspire Calculator to do my homework for me, by using `Lua`.<br>
 After that I applied to our school's IT work group, where I was introduced to the basic programming language principles by using `Scratch 2`.<br>
 I then moved on to writing my own Discord bot and some smaller projects, as I started teaching myself `Python`.<br>
