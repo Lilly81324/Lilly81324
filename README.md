@@ -9,7 +9,7 @@ I then moved on to writing my own Discord bot and some smaller projects, as I st
 After learning about a coding school called [42 Wolfsburg](https://42wolfsburg.de/), I quit my physics studies to focus fully on studying IT.
 There, I learnt the fundamentals of all programming, with `C`, `C++` and later on more complex scripting languages like `Typescript`<br><br>
 My greatest asset as a developer is my ability to independently teach myself and learn new skills quickly, to accomplish an assigned task.
-I am also fluent in English and German and comfortable with working in team enviroments.
+I am also fluent in English and German and comfortable with working in team environments.
 <br>
 <center>
   <img height=200 align="center" src="https://github-readme-stats-alpha-eight-19.vercel.app/api?username=Lilly81324&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true" style="margin-right: 5"/>
